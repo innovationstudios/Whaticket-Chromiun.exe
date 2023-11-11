@@ -1,4 +1,11 @@
 # Whaticket-Chromiun.exe
+
+
+![image](https://github.com/inovationstudio/Whaticket-Chromiun.exe/assets/150537146/e7c7250b-d957-4568-aae6-9e50db78328e)
+
+
+
+
 Plataforma de otimização em client-side para diminuir o uso de ram e cpu!
 
 Plataforma em C# utilizando a versão mais recente do Google Chromium; Fazendo inicialização apenas de componentes realmente necessarios para leitura da aplicação LIB Chromiun
